@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ISRaiken\\source\\repos\\BPUP_Messanger\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{68BE2E9D-A8B3-4ACF-9581-D53ECB705610}|BPUP_Messanger.csproj|C:\\Users\\ISRaiken\\source\\repos\\BPUP_Messanger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BE2E9D-A8B3-4ACF-9581-D53ECB705610}|BPUP_Messanger.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{68BE2E9D-A8B3-4ACF-9581-D53ECB705610}|BPUP_Messanger.csproj|c:\\users\\israiken\\source\\repos\\bpup_messanger\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68BE2E9D-A8B3-4ACF-9581-D53ECB705610}|BPUP_Messanger.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -12,10 +16,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{68BE2E9D-A8B3-4ACF-9581-D53ECB705610}|BPUP_Messanger.csproj|C:\\Users\\ISRaiken\\source\\repos\\BPUP_Messanger\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{68BE2E9D-A8B3-4ACF-9581-D53ECB705610}|BPUP_Messanger.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68BE2E9D-A8B3-4ACF-9581-D53ECB705610}|BPUP_Messanger.csproj|C:\\Users\\ISRaiken\\source\\repos\\BPUP_Messanger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68BE2E9D-A8B3-4ACF-9581-D53ECB705610}|BPUP_Messanger.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68BE2E9D-A8B3-4ACF-9581-D53ECB705610}|BPUP_Messanger.csproj|C:\\Users\\ISRaiken\\source\\repos\\BPUP_Messanger\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,11 +29,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BPUP_Messanger",
               "DocumentMoniker": "C:\\Users\\ISRaiken\\source\\repos\\BPUP_Messanger\\BPUP_Messanger.csproj",
               "RelativeDocumentMoniker": "BPUP_Messanger.csproj",
@@ -56,32 +56,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ISRaiken\\source\\repos\\BPUP_Messanger\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ISRaiken\\source\\repos\\BPUP_Messanger\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T12:53:01.478Z"
+              "WhenOpened": "2025-02-24T12:53:01.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ISRaiken\\source\\repos\\BPUP_Messanger\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\ISRaiken\\source\\repos\\BPUP_Messanger\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAowDIAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwFkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T12:51:12.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\ISRaiken\\source\\repos\\BPUP_Messanger\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

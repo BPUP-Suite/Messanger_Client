@@ -90,7 +90,7 @@ namespace MessangerAppWebView
             ShowWindow();
         }
 
-        private void ShowWindow()
+        public void ShowWindow()
         {
             this.Show();
             this.WindowState = FormWindowState.Normal;
